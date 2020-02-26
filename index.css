@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to right, blue, purple);
+    background-attachment: fixed;
+}
+
+.logo {
+    width: 300px;
+    display: block; /* takes up whole width */
+    /* this part aligns the image in the middle making the image take the same space left and right side */
+    margin-left: auto;
+    margin-right: auto;
+    /**/
+}
