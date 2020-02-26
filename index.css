@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, #166DB4 /* blue */, #7B3A9C /* purple */); /* makes the background go from blue to purple*/
+    background-image: linear-gradient(to right, #166DB4 /* blue */, #7B3A9C /* purple */); /* makes the background go from blue to purple to the right side*/
     background-attachment: fixed; /* makes the background not repeat when expanding screen */
     color: white; /* any text within body becomes white */
     text-align: center;
