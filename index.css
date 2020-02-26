@@ -1,13 +1,71 @@
 body {
-    background-image: linear-gradient(to right, #166DB4, #7B3A9C);
-    background-attachment: fixed;
+    background-image: linear-gradient(to right, #166DB4 /* blue */, #7B3A9C /* purple */); /* makes the background go from blue to purple*/
+    background-attachment: fixed; /* makes the background not repeat when expanding screen */
+    color: white; /* any text within body becomes white */
+    text-align: center;
+    font-family: "museo-sans", "Museo Sans", "Helvetica Neue", "Arial", sans-serif; /* Elton was nice enough to send me the exact font pupilpath uses*/
 }
 
 .logo {
-    width: 300px;
+    width: 300px; /* height is also changed when changing width*/
     display: block; /* takes up whole width */
     /* this part aligns the image in the middle making the image take the same space left and right side */
     margin-left: auto;
     margin-right: auto;
     /**/
+    margin-top: 20px;
+}
+
+.box {
+    background: rgb(255,255,255,0.2); /* color white with the opacity at 0.2*/
+    /* using opacity blocks out the text because they are the same color */
+    width: 300px;
+    height: 250px;
+    display: block; /* takes up whole width */
+    /* this part aligns the image in the middle making the image take the same space left and right side */
+    margin-left: auto;
+    margin-right: auto;
+    /**/
+    border-radius: 5px; /* rounds the borders a little */
+}
+
+.greeting {
+    padding-top: 40px; /* sets space from the top of the box*/
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.sign-in-box {
+    background: rgb(255,255,255,0.15); /* color white with the opacity at 0.35 because of overlapping with the box behind it */
+    display: block; /* takes up whole width */
+    /* this part aligns the image in the middle making the image take the same space left and right side */
+    margin-left: auto;
+    margin-right: auto;
+    /**/
+    width: 70px;
+    height: 40px;
+    border-radius: 5px; /* rounds the borders by 5px */
+}
+
+.sign-in {
+    padding-top: 10px; /* sets space from the top of the box*/
+    font-size: 15px;
+}
+
+.link1 {
+    font-size: 13px;
+    padding-top: 5px; /* sets space from the top of the box*/
+}
+
+.link2 {
+    font-size: 13px;
+    padding-top: 10px; /* sets space from the top of the box*/
+}
+
+.link3 {
+    font-size: 13px;
+}
+
+.footer {
+    font-size: 13px;
 }
