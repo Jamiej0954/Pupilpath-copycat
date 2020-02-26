@@ -7,7 +7,7 @@ body {
 }
 
 .logo {
-    width: 300px; /* height is also changed when changing width*/
+    width: 400px; /* height is also changed when changing width*/
     display: block; /* takes up whole width */
     /* this part aligns the image in the middle making the image take the same space left and right side */
     margin-left: auto;
