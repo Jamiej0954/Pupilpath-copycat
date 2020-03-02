@@ -1,7 +1,7 @@
 Pupilpath-copycat
 
 Link to google doc [planning page](https://docs.google.com/document/d/1hu6QbD9O3_nUcgB_yLXlvjyLK1z5NgnfZ_05tn7_Ujs/edit?usp=sharing)
-Link to github.com [preview page](https://github.com/Jamiej0954/pupilpath-copycat)
+Link to github.com [preview page](https://22dd1ee26e28475f85d1f933c8b0e185.vfs.cloud9.us-west-2.amazonaws.com/_static/projects/pupilpath-copycat/index.html?_c9_id=livepreview1&_c9_host=https://us-west-2.console.aws.amazon.com)
 
 The purpose of this project is to demonstrate student's understanding of css and html we have learn so far. In class, we have cover the jigsaw mini lessons and also uses it to create a copy-cat website. We get to choose which website we are planning on making base on the difficulty that we think we could challenge. At the beginning of the process, we are told to create a planning page and set a create a timeline for ourselves. 
 
